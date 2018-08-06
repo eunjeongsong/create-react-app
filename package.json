@@ -12,5 +12,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/eunjeongsong/create-react-app.git",
+  "author": "eunjeongsong <hellogine12@gmail.com>",
+  "license": "MIT"
 }
